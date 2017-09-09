@@ -1,0 +1,2 @@
+# Image-Gallery
+Made a simple Gallery app quickly with Android Studio 1.4's default Activity Templates. Used Glide for image loading and caching.
